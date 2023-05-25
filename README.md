@@ -1,6 +1,6 @@
 # MHLP
 # Detail-Aware Near Infrared and Visible Fusion with Multi-Order Hyper-Laplacian Priors [Matlab Code]
-
+This repository contains sample code for paper "Detail-Aware Near Infrared and Visible Fusion with Multi-Order Hyper-Laplacian Priors", published in IF
 
 # How to use?
 - Directly run: ``demo_ir.m`` for a  example (IR-VIS)
@@ -13,9 +13,10 @@
 ```bibtex
 @ARTICLE{,
 author={Bo Yang, Zhaohui Jiang, Dong Pan, Haoyang Yu, Weihua Gui},
-booktitle={},
+booktitle={Information Fusion},
 title={Detail-Aware Near Infrared and Visible Fusion with Multi-Order Hyper-Laplacian Priors},
-year={},
-pages={},
+year={2023},
+pages={-},
+doi={doi.org/10.1016/j.inffus.2023.101851},
 }
 ```
